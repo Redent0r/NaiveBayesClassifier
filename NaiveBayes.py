@@ -4,7 +4,6 @@
 
 import sys
 import math
-import json
 
 def run():
     argv = sys.argv
